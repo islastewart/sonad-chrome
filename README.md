@@ -8,8 +8,8 @@ A chrome extension to display definitions and declensions for Estonian words in-
 
 
 ## In-progress:
-- Basically everything.
-- Svelte boilerplate chrome extension creation.
-- Typescript wrappers for to sõnad-api.
-- In-browser display panel for definitions and declensions and conjucations. (probably display nouns, adjectives, etc. seperately from verbs.)
-- Optional usage of some machine translation service for definitions in specified language.
+- [ ] Basically everything.
+- [ ] Svelte boilerplate chrome extension creation.
+- [ ] Typescript wrappers for to sõnad-api.
+- [ ] In-browser display panel for definitions and declensions and conjucations. (probably display nouns, adjectives, etc. seperately from verbs.)
+- [ ] Optional usage of some machine translation service for definitions in specified language.
